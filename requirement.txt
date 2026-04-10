@@ -1,0 +1,5 @@
+pandas
+openai 
+langchain-openai
+langchain-groq
+json
