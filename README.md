@@ -227,5 +227,5 @@ The focus is not just automation — but **making decisions explainable and acti
 
 ---
 
-**Author:** Vrushank Dhande
-**reference:** https://www.bajajfinserv.in/investments/what-is-ratio-analysis?
+- **Author:** Vrushank Dhande
+- **reference:** https://www.bajajfinserv.in/investments/what-is-ratio-analysis?
