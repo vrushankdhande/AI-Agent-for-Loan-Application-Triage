@@ -1,5 +1,5 @@
 # 🧠 AI Agent for Loan Application Triage
-**CoVector AI Take-Home Assignment | Vrushank Dhande**
+**Vrushank Dhande**
 
 ---
 
